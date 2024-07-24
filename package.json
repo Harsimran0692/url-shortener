@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://harsimran0692.github.io/url-shortener",
+  "homepage": "https://Harsimran0692.github.io/url-shortener",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
